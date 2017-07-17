@@ -1,0 +1,39 @@
+.iticonsBS,.iticons_FPG,.iticons_RG,.iticons_TG{
+	cursor:pointer;
+	opacity:0.7;
+}
+.iticonsBS:hover {
+	opacity:1;
+}
+.iticons_FPG:hover{
+opacity:1;
+}
+.iticons_RG:hover{
+opacity:1;
+}
+.iticons_TG:hover{
+opacity:1;
+}
+#Juna_IT_Photo_Gallery_Load_More, #Juna_IT_Photo_Gallery_Load_More_FPG, #Juna_IT_Photo_Gallery_Load_More_RG, #Juna_IT_Photo_Gallery_Load_More_TG{
+	cursor:pointer;
+	opacity:0.7;
+}
+#Juna_IT_Photo_Gallery_Load_More:hover{
+	opacity:1 !important;
+}
+#Juna_IT_Photo_Gallery_Load_More_FPG:hover{
+	opacity:1 !important;
+}
+#Juna_IT_Photo_Gallery_Load_More_RG:hover{
+	opacity:1 !important;
+}
+#Juna_IT_Photo_Gallery_Load_More_TG:hover{
+	opacity:1 !important;
+}
+.comment_content ul li:before, .entry-content ul li:before {
+    content: "\203A \020 \020";
+    font-family: 'SourceSerifPro-Semibold', sans-serif, arial;
+    font-size: 20px;
+    opacity: 0;
+	display:none;
+}
